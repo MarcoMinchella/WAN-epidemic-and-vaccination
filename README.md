@@ -52,7 +52,7 @@ Python 3, with igraph, NetworkX, powerlaw, matplotlib and joblib. Install with `
 
 
 
-\## References
+## References
 
 
 
